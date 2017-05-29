@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Serve:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Serve_jar</output-path>
+    <root id="archive" name="ChineseChess.jar">
+      <element id="module-output" name="ChineseChess" />
+    </root>
+  </artifact>
+</component>
